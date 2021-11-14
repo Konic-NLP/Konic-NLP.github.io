@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me([Curriculum Vitae](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/files/Sijia%20Ge-CV.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
