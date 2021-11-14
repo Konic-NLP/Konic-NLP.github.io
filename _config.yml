@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sijia Ge"
   avatar           : "pofile.png"
-  bio              : "MS Compuational linguistics student at CU-Boulder"
+  bio              : "MS Compuational linguistics student at department of Linguistics and Computer Science in CU-Boulder"
   location         : "Boulder,CO"
   employer         :
-  email            :
+  email            :"	sijia.ge@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/sijia-ge-b44392210/"
   pinterest        :
   soundcloud       :
   steam            :
