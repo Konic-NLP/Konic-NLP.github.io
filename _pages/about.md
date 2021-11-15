@@ -12,7 +12,7 @@ redirect_from:
 Now I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [The University of Colorado-Boulder](https://www.colorado.edu/).  Such an interdisciplinary degree is offered jointly by The [Departments of Linguistics](https://www.colorado.edu/linguistics/) and [Computer Science](https://www.colorado.edu/cs/).
   
   
-I got B.A. degree at the department of Chinese language and literature in Shanxi University (Major in Chinese language and literature) and M.A. degree at Nanjing Normal University(Major in Linguistics and Applied linguistics) in China. My past work focused on computational linguistics, corpus construction([Chinese Abstract Meaning Representation corpus](https://www.cs.brandeis.edu/~clp/camr/camr.html)), ancient Chinese classics processing(lexical analysis with deep learning) and digital huminities(deep annotation for meaning of ancient Chinese poems).
+I got B.A. degree in the department of Chinese language and literature of Shanxi University (Major in Chinese language and literature) and M.A. degree in Nanjing Normal University(Major in Linguistics and Applied linguistics). My past work focused on computational linguistics, corpus construction([Chinese Abstract Meaning Representation corpus](https://www.cs.brandeis.edu/~clp/camr/camr.html)), ancient Chinese classics processing(lexical analysis with deep learning) and digital huminities(deep annotation for meaning of ancient Chinese poems).
   
   
 Before entering the CU-Boulder, I worked as a product manager intern in Bejing Lingosail company.
