@@ -1,5 +1,3 @@
-  
-  
 ---
 permalink: /
 title: "About me([Curriculum Vitae](https://Konic-NLP.github.io/files/Sijia%20Ge-CV.pdf))"
