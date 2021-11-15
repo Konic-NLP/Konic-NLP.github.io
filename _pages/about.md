@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me([Curriculum Vitae](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/files/Sijia%20Ge-CV.pdf))"
+title: "About me([Curriculum Vitae](https://Konic-NLP.github.io/files/Sijia%20Ge-CV.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+  
+  
+  
 I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [CU-Boulder](https://www.colorado.edu/). 
   
   
