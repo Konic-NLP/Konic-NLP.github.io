@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---  
+  
       
-&nbsp;
+&nbsp;  
+
 I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [The University of Colorado-Boulder](https://www.colorado.edu/). 
   
   
