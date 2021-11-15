@@ -10,6 +10,7 @@ redirect_from:
   
   
   
+****  
 I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [CU-Boulder](https://www.colorado.edu/). 
   
   
