@@ -8,8 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a student of Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program at CU-Boulder. I got my bachelor degree at Shanxi University (Major in Chinese language and literature) and M.A degree at Nanjing Normal University(Major in Linguistics and Applied linguistics) in China. My past work focus on Semantical role labeling, corpus construction, ancient Chinese classics processing and digital huminities.  
+I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [CU-Boulder](https://www.colorado.edu/). I got my B.A degree at the department of Chinese language and literature in Shanxi University (Major in Chinese language and literature) and M.A degree at Nanjing Normal University(Major in Linguistics and Applied linguistics) in China. My past work focus on computational linguistics, corpus construction([Chinese Abstract Meaning Representation corpus](https://www.cs.brandeis.edu/~clp/camr/camr.html)), ancient Chinese classics processing and digital huminities. Before entering the CU-Boulder, I work as product manager intern in Bejing Lingosail company.
 
+Selected Publication
+=======
+Paper 
+----
+Ning Cheng, Bin Li, Liming Xiao, Changwei Xu, Sijia Ge, Xingyue Hao, Minxuan Feng. Integration of Automatic Sentence Segmentation and Lexical Analysis of Ancient Chinese based on BiLSTM-CRF Model[pdf](https://aclanthology.org/2020.lt4hala-1.8.pdf). Proceedings of LT4HALA 2020 - 1st Workshop on Language Technologies for Historical and Ancient Languages. Marseille, France,2020:52-58. 
+Xingyue Hao, Sijia Ge*, Yang Zhang, Yuling Dai, Peiyi Yan, and Bin Li. The Construction and Analysis of Annotated 
+Imagery Corpus of Three Hundred Tang Poems[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-38189-9_53.pdf). J.-F. Hong et al. (Eds.): Proceedings of the 20th Chinese Lexical Semantics Workshop (CLSW 2019), LNAI 11831, pp. 517–524, 2020. 
+Li  Song, Yuan  Wen,  Sijia  Ge,  Bin  Li,  Junsheng  Zhou,  Weiguang  Qu  and  Nianwen  Xue. An  Easier  and  Efficient Framework to Annotate Semantic Roles: Evidence from the Chinese AMR Corpus[pdf](http://lrec-conf.org/workshops/lrec2018/W29/pdf/15_W29.pdf).The 13th Workshop on Asian Language Resources on LREC 2018. Miyazaki, Japan, May 07, 2018:29-35. 
+Patent 
+----
+A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.  (the  3 rd   applicant).2019. No.CN201910085019.3 
+
+
+            
 
 <!-- A data-driven personal website
 ======
