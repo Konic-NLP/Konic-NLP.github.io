@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---  
   
-&nbsp;  
+&nbsp;
+
+A self-driven explorer for NLP and related skills with strong passion for ML/DL, software development. I immerse myself into the challenging journey with thorns to enrich my CS skills since I am not a CS guy originally. I love fantastic techniques which bring me the instant feedback and the sense of accomplishment.
+
 Now I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [The University of Colorado-Boulder](https://www.colorado.edu/).  Such an interdisciplinary degree is offered jointly by The [Departments of Linguistics](https://www.colorado.edu/linguistics/) and [Computer Science](https://www.colorado.edu/cs/).
-  
+ 
   
 I got B.A. degree in the department of Chinese language and literature of Shanxi University (Major in Chinese language and literature) and M.A. degree in Nanjing Normal University(Major in Linguistics and Applied linguistics). My past work focused on computational linguistics, corpus construction([Chinese Abstract Meaning Representation corpus](https://www.cs.brandeis.edu/~clp/camr/camr.html)), ancient Chinese classics processing(lexical analysis with deep learning) and digital huminities(deep annotation for meaning of ancient Chinese poems).
   
   
-Before entering the CU-Boulder, I worked as a product manager intern in Beijing Lingosail company(China), designed and upgraded the product for term extraction.
+Before entering the CU-Boulder, I worked as a product manager intern in Beijing Lingosail company(China), designed and upgraded the product ['Termbox'](http://termbox.lingosail.com/) for term extraction.
 
 Selected Publication
 =======
@@ -35,7 +38,18 @@ Li  Song, Yuan  Wen,  **Sijia  Ge**,  Bin  Li,  Junsheng  Zhou,  Weiguang  Qu  a
 A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.  (the  3 rd   applicant).2019. No.CN201910085019.3 
 
 
-            
+<br>code projects on Github</br>
+=======
+Natural Language Processing 
+
+- text classification with XLNET, logistic regression, BI-LSTM/SVM with embeddings. The data including a hotel reviews and SemEval shared task 4 for 'Don't Petronize Me' detection. The implementation with pytorch, keras, tensorflow, sklearn.
+[repo](https://github.com/Konic-NLP/text-classification)
+
+******
+- Name Entity Recognition with token-based tagging(BIO/BIOE)
+  - NER with BERT, which loaded the pre-trained model from huggingface[repo](https://github.com/Konic-NLP/BERT-NER/blob/main/copy_of_ner_bert.py)
+  - BI-LSTM implementation with tensorflow, can choose BI-LSTM or IDCNN as the model architecture, IDCNN is faster. [repo](https://github.com/Konic-NLP/NER/blob/main/NER-BERT.py)
+  - CRF++(C++ source)/CRFsuite implementation, the feature template can be edited by the users. [repo](https://github.com/Konic-NLP/NER) 
 
 <!-- A data-driven personal website
 ======
