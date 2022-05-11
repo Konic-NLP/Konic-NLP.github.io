@@ -40,17 +40,41 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 <br>code projects on Github</br>
 =======
-Natural Language Processing 
+## Natural Language Processing 
 
 - text classification with XLNET, logistic regression, BI-LSTM/SVM with embeddings. The data including a hotel reviews and SemEval shared task 4 for 'Don't Petronize Me' detection. The implementation with pytorch, keras, tensorflow, sklearn.
 [repo](https://github.com/Konic-NLP/text-classification)
 
-******
+
 - Name Entity Recognition with token-based tagging(BIO/BIOE)
   - NER with BERT, which loaded the pre-trained model from huggingface[repo](https://github.com/Konic-NLP/BERT-NER/blob/main/copy_of_ner_bert.py)
   - BI-LSTM implementation with tensorflow, can choose BI-LSTM or IDCNN as the model architecture, IDCNN is faster. [repo](https://github.com/Konic-NLP/NER/blob/main/NER-BERT.py)
   - CRF++(C++ source)/CRFsuite implementation, the feature template can be edited by the users. [repo](https://github.com/Konic-NLP/NER) 
 
+***********
+
+## Computer Vision
+
+- MNIST recognition with scikit-learn [code](https://github.com/Konic-NLP/5922-deep-learning/blob/main/lab_assignment1_.ipynb)
+- Cifar-10 image classification with Keras(using regularization L2/Batch Normilization/Drop out) [code](https://github.com/Konic-NLP/5922-deep-learning/blob/main/lab_assignment2.ipynb)
+- Viz-Wiz challenge: VQA for blind people, extracting questions and image features via BERT and VGG-16, then feed the flatten feature vector into a MLP. [code](https://github.com/Konic-NLP/5922-deep-learning/blob/main/lab_assignment4.ipynb)
+
+**************
+
+## Software development and Object-oriented design
+
+- A music store simulation, including the functionality like placing an order, checking the inventory, sell the items, buying items and so on. Injecting design patterns into the code, including factory, strategy, decorator, command, observer, singleton. Design with class UML, state diagram and sequence diagram. The language we use Java.[repo](https://github.com/Konic-NLP/OOAD-project)
+
+- A online e-commerce shopping website development. Implementing with Django 2,  we use JS and Jquery for front end and Django-admin for backstage management.[repo](https://github.com/Konic-NLP/final-project-OOAD)
+
+
+****************
+
+## Practice coding 
+
+Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)
+
+Java Learning with UCB CS 61B. [repo](https://github.com/Konic-NLP/Java-learning)
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
