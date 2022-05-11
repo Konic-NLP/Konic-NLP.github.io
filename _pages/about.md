@@ -38,11 +38,11 @@ Li  Song, Yuan  Wen,  **Sijia  Ge**,  Bin  Li,  Junsheng  Zhou,  Weiguang  Qu  a
 A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.  (the  3 rd   applicant).2019. No.CN201910085019.3 
 
 
-<br>code projects on Github</br>
+<br>Code projects on Github</br>
 =======
 ## Natural Language Processing 
 
-- text classification with XLNET, logistic regression, BI-LSTM/SVM with embeddings. The data including a hotel reviews and SemEval shared task 4 for 'Don't Petronize Me' detection. The implementation with pytorch, keras, tensorflow, sklearn.
+- Text classification with XLNET, logistic regression, BI-LSTM/SVM with embeddings. The data including a hotel reviews and SemEval shared task 4 for 'Don't Petronize Me' detection. The implementation with pytorch, keras, tensorflow, sklearn.
 [repo](https://github.com/Konic-NLP/text-classification)
 
 
@@ -61,7 +61,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 **************
 
-## Software development and Object-oriented design
+## Software Development and Object-Oriented Design
 
 - A music store simulation, including the functionality like placing an order, checking the inventory, sell the items, buying items and so on. Injecting design patterns into the code, including factory, strategy, decorator, command, observer, singleton. Design with class UML, state diagram and sequence diagram. The language we use Java.[repo](https://github.com/Konic-NLP/OOAD-project)
 
@@ -70,7 +70,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 ****************
 
-## Practice coding 
+## Coding Practice 
 
 - Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)
 
