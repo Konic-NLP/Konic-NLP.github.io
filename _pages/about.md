@@ -38,7 +38,7 @@ Li  Song, Yuan  Wen,  **Sijia  Ge**,  Bin  Li,  Junsheng  Zhou,  Weiguang  Qu  a
 A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.  (the  3 rd   applicant).2019. No.CN201910085019.3 
 
 
-<br>Code projects on Github</br>
+<br>Code projects on Github
 =======
 ## Natural Language Processing 
 
