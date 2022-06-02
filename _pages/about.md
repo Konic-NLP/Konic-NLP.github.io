@@ -75,6 +75,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 - Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)
 
 - Java Learning with UCB CS 61B. [repo](https://github.com/Konic-NLP/Java-learning)
+- Machine Learning(implemented with *Machine Learning in Action*).[repo](https://github.com/Konic-NLP/Machine_Learning) 
 
 
 
