@@ -15,10 +15,17 @@ A self-driven explorer for NLP and related skills with strong passion for ML/DL,
 Now I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [The University of Colorado-Boulder](https://www.colorado.edu/).  Such an interdisciplinary degree is offered jointly by The [Departments of Linguistics](https://www.colorado.edu/linguistics/) and [Computer Science](https://www.colorado.edu/cs/).
  
   
-I got B.A. degree in the department of Chinese language and literature of Shanxi University (Major in Chinese language and literature) and M.A. degree in Nanjing Normal University(Major in Linguistics and Applied linguistics). My past work focused on computational linguistics, corpus construction([Chinese Abstract Meaning Representation corpus](https://www.cs.brandeis.edu/~clp/camr/camr.html)), ancient Chinese classics processing(lexical analysis with deep learning) and digital huminities(deep annotation for meaning of ancient Chinese poems).
+I got B.A. degree in the department of Chinese language and literature of Shanxi University (Major in Chinese language and literature) and M.A. degree in Nanjing Normal University(Major in Linguistics and Applied linguistics). I have 4 years+ Python experience and 2 years+ NLP research experience. My past work focused on lexcial analysis (i.e token classification/sequence labeling tasks like named entity recognition and word segementation, etc); corpus construction(high quality annotation for text dataset, especially for semantic role labeling, like [Chinese Abstract Meaning Representation corpus](https://www.cs.brandeis.edu/~clp/camr/camr.html) and Chinese FrameNet), and digital huminities(I explore how to structual represent the meaning of literature like ancient Chinese poems as much as possible).
   
   
 Before entering the CU-Boulder, I worked as a product manager intern in Beijing Lingosail company(China), designed and upgraded the product ['Termbox'](http://termbox.lingosail.com/) for term extraction.
+
+
+My major technical stacks:  
+Programming languages: Python/Java
+ML/DL: Keras, sklearn, tensorflow
+Web development: Django
+
 
 Selected Publication
 =======
