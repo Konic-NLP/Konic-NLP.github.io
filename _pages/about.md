@@ -21,10 +21,10 @@ I got B.A. degree in the department of Chinese language and literature of Shanxi
 Before entering the CU-Boulder, I worked as a product manager intern in Beijing Lingosail company(China), designed and upgraded the product ['Termbox'](http://termbox.lingosail.com/) for term extraction.
 
 
-My major technical stacks:  
-Programming languages: Python/Java
-ML/DL: Keras, sklearn, tensorflow
-Web development: Django
+**My major technical stacks**:  
+- Programming languages: Python/Java
+- ML/DL: Keras, sklearn, tensorflow
+- Web development: Django
 
 
 Selected Publication
