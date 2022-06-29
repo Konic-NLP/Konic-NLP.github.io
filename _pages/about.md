@@ -26,6 +26,13 @@ Before entering the CU-Boulder, I worked as a product manager intern in Beijing 
 - Web development: Django
 
 
+**License**
+
+- Structured Query Language from Coursera [view](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/files/Coursera%20Q7MAJJK9F576.pdf)
+
+- Programming Language -Python from China Mocc [view](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/files/%E8%AF%81%E4%B9%A6.png)
+
+
 Selected Publication
 =======
 ## paper
@@ -78,7 +85,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 ## Coding Practice 
 
-- Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)![update](https://img.shields.io/badge/last%20updated-June%202022-lightgrey)]
+- Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)  ![update](https://img.shields.io/badge/last%20updated-June%202022-lightgrey)
 
 - Java Learning with UCB CS 61B. [repo](https://github.com/Konic-NLP/Java-learning)
 - Machine Learning(implemented with *Machine Learning in Action*).[repo](https://github.com/Konic-NLP/Machine_Learning) 
