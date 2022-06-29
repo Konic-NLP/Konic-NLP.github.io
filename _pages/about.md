@@ -28,9 +28,9 @@ Before entering the CU-Boulder, I worked as a product manager intern in Beijing 
 
 **Certificate**
 
-- Structured Query Language from Coursera [view](Konic-NLP.github.io/files/Coursera%20Q7MAJJK9F576.pdf)
+- Structured Query Language from Coursera [view](https://konic-nlp.github.io/files/Coursera%20Q7MAJJK9F576.pdf)
 
-- Programming Language -Python from China MOOC [view](Konic-NLP.github.io/files/%E8%AF%81%E4%B9%A6.png)
+- Programming Language -Python from China MOOC [view](https://Konic-NLP.github.io/files/%E8%AF%81%E4%B9%A6.png)
 
 
 Selected Publication
