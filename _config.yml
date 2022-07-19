@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sijia(Konic) Ge"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Sijia Ge"
-description              : &description "personal description"
+description              : &description "Computational Linguistic student at CU-Boulder"
 url                      : https://Konic-NLP.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Konic-NLP.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sijia Ge"
+  name             : "Sijia Ge 葛 四嘉"
   avatar           : "pofile.png"
   bio              : "MS Compuational linguistics student at department of Linguistics and Computer Science in CU-Boulder"
   location         : "Boulder, CO, USA"
