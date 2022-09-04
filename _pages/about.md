@@ -29,7 +29,7 @@ Before entering the CU-Boulder, I worked as a product manager intern in Beijing 
 
 **Application&Products**
 
-![](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/images/android-chrome-512x512.png)
+<img src=https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/images/android-chrome-512x512.png  width="40%" height="40%">
 - [**UMR-writer**](http://umr-tool.cs.brandeis.edu/): An annotation tool for Semantic Roles Labeling with Uniform Meaning Representation. ![commit](https://img.shields.io/github/last-commit/jinzhao3611/umr-annotation-tool/master)
 
 ![](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/images/Snipaste_2022-09-04_14-02-44.png =200*200)
