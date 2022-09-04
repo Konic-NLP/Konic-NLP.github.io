@@ -27,11 +27,13 @@ Before entering the CU-Boulder, I worked as a product manager intern in Beijing 
   - Web development: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
-**Certificate**
+**Application&Products**
 
-- Structured Query Language from Coursera [view](https://konic-nlp.github.io/files/Coursera%20Q7MAJJK9F576.pdf)
+![]()
+- UMR-writer: An annotation tool for Semantic Roles Labeling with Uniform Meaning Representation. [](http://umr-tool.cs.brandeis.edu/)
 
-- Programming Language -Python from China MOOC [view](https://Konic-NLP.github.io/files/%E8%AF%81%E4%B9%A6.png)
+![]()
+- Termboxc: A term-extraction and translation tool for Computer-Aided Translation [](http://termbox.lingosail.com/)
 
 
 Selected Publication
