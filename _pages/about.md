@@ -32,7 +32,7 @@ Before entering the CU-Boulder, I worked as a product manager intern in Beijing 
 ![](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/images/android-chrome-512x512.png)
 - [**UMR-writer**](http://umr-tool.cs.brandeis.edu/): An annotation tool for Semantic Roles Labeling with Uniform Meaning Representation. ![commit](https://img.shields.io/github/last-commit/jinzhao3611/umr-annotation-tool/master)
 
-![](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/images/Snipaste_2022-09-04_14-02-44.png){:height="40%" width="40%"}
+![](https://github.com/Konic-NLP/Konic-NLP.github.io/blob/master/images/Snipaste_2022-09-04_14-02-44.png =200*200)
 - [**Termbox**](http://termbox.lingosail.com/): A term-extraction and translation tool for Computer-Aided Translation.
 
 Selected Publication
