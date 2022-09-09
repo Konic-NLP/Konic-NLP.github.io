@@ -87,7 +87,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 ## Coding Practice 
 
-- Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)  ![update](https://img.shields.io/badge/last%20updated-June%202022-lightgrey  "add my handwriting notes in Chinese")
+- Python Data sturcture and Algorithms.[repo](https://github.com/Konic-NLP/Data_sturcture_algorithms)  ![update](https://img.shields.io/github/last-commit/Konic-nlp/Data_sturcture_algorithms/main?label=last%20update&style=plastic)
 
 - Java Learning with UCB CS 61B. [repo](https://github.com/Konic-NLP/Java-learning)
 - Machine Learning(implemented with *Machine Learning in Action*).[repo](https://github.com/Konic-NLP/Machine_Learning) 
