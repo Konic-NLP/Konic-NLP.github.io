@@ -11,7 +11,7 @@ redirect_from:
 &nbsp;
 
 A self-driven explorer of NLP and related skills with a strong passion for ML/DL, and software development. I immerse myself in the challenging journey with thorns to enrich my CS skills since I am not a CS guy originally. I love fantastic techniques which bring me instant feedback and a sense of accomplishment.
-Right now I am working with Prof. Martha Palmer for the AIDA/KAIROS project to compute the similarity of the events based on Wikidata and [UMR writter](http://umr-tool.cs.brandeis.edu/)(an annotation tool for Univeral Meaning Representation)
+Right now I am working with Prof. Martha Palmer for the AIDA/KAIROS project to compute the similarity of the events based on Wikidata and [UMR writter](http://umr-tool.cs.brandeis.edu/)(an annotation tool for Uniform Meaning Representation)
 
 Now I am a student of [Computational Linguistics, Analytics, Search and Informatics Professional Master’s Degree (CLASIC) program](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at [The University of Colorado-Boulder](https://www.colorado.edu/).  Such an interdisciplinary degree is offered jointly by The [Departments of Linguistics](https://www.colorado.edu/linguistics/) and [Computer Science](https://www.colorado.edu/cs/). I got a B.A. degree in the department of Chinese language and literature at Shanxi University (Major in Chinese language and literature) and M.A. degree from Nanjing Normal University(Major in Linguistics and Applied linguistics). 
 
