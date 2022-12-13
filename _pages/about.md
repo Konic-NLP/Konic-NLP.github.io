@@ -67,7 +67,16 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
   - CRF++(C++ source)/CRFsuite implementation, the feature template can be edited by the users. [repo](https://github.com/Konic-NLP/NER) 
 
 ***********
+## Machine Learning
+- Course Project: The bigger, the better?
+  - compare the performance of image classification task on CIFAR-19 dataset between a vanilla CNN and a CNN including ResNet-50 pretrained models.
+  - The experiments show that after preprocessing like Deep-Image-Prior(DIP) on the nosiy data, the perfomance on a vanilla CNN can perform in the similar level to that on a complicated CNN leveraging ResNet-50 without denosing. The vanilla CNN trains faster, less weights.
+  - Also find variables such as optimizer, upsampling impact differently on different CNN.   
+- Kaggle competition: Bike shared count[Kaggle page](https://www.kaggle.com/competitions/csci-5622-ps4-22-fall/overview) [Code Link]()
+  - leverage Exploratory Data Analysis, feature engineering for handling data format features, feature transformation&normalization, and XGBoost with Parameter Gridsearch
+  - Rank #3/52 in Public leaderboard with R^2=0.935 and #9/52 in Private Leaderboard with R^2=0.939
 
+***********
 ## Computer Vision
 
 - MNIST recognition with scikit-learn [code](https://github.com/Konic-NLP/5922-deep-learning/blob/main/lab_assignment1_.ipynb)
