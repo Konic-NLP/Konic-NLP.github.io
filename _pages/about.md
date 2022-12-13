@@ -87,6 +87,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 ## Software Development and Object-Oriented Design
 
+- UMR writer: An Online annotation platform for UMR project, based on Flask framework, PostgresSQL as database and SQLalchemy as ORM, vanilla JS//Jquery/HTML/CSS as front-end, mainly focus on Events listener and DOM operation. The application is deployed at Heroku. [[repo]](https://github.com/jinzhao3611/umr-annotation-tool)
 - A music store simulation, including the functionality like placing an order, checking the inventory, sell the items, buying items and so on. Injecting design patterns into the code, including factory, strategy, decorator, command, observer, singleton. Design with class UML, state diagram and sequence diagram. The language we use Java.[repo](https://github.com/Konic-NLP/OOAD-project)
 
 - A online e-commerce shopping website development. Implementing with Django 2,  we use JS and Jquery for front end and Django-admin for backstage management.[repo](https://github.com/Konic-NLP/final-project-OOAD)
