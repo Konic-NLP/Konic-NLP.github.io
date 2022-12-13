@@ -39,14 +39,14 @@ Selected Publication
 =======
 ## paper
 
-Ning Cheng, Bin Li, Liming Xiao, Changwei Xu, **Sijia Ge**, Xingyue Hao, Minxuan Feng. Integration of Automatic Sentence Segmentation and Lexical Analysis of Ancient Chinese based on BiLSTM-CRF Model. *Proceedings of LT4HALA 2020 - 1st Workshop on Language Technologies for Historical and Ancient Languages*. Marseille, France,2020:52-58. [pdf](https://aclanthology.org/2020.lt4hala-1.8.pdf) 
+Ning Cheng, Bin Li, Liming Xiao, Changwei Xu, **Sijia Ge**, Xingyue Hao, Minxuan Feng. Integration of Automatic Sentence Segmentation and Lexical Analysis of Ancient Chinese based on BiLSTM-CRF Model. *Proceedings of LT4HALA 2020 - 1st Workshop on Language Technologies for Historical and Ancient Languages*. Marseille, France,2020:52-58. [[pdf]](https://aclanthology.org/2020.lt4hala-1.8.pdf) 
 
 *****  
 
-Xingyue Hao, **Sijia Ge***, Yang Zhang, Yuling Dai, Peiyi Yan, and Bin Li. The Construction and Analysis of Annotated Imagery Corpus of Three Hundred Tang Poems. *J.-F. Hong et al. (Eds.): Proceedings of the 20th Chinese Lexical Semantics Workshop (CLSW 2019)*, LNAI 11831, pp. 517–524, 2020.   [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-38189-9_53.pdf)
+Xingyue Hao, **Sijia Ge***, Yang Zhang, Yuling Dai, Peiyi Yan, and Bin Li. The Construction and Analysis of Annotated Imagery Corpus of Three Hundred Tang Poems. *J.-F. Hong et al. (Eds.): Proceedings of the 20th Chinese Lexical Semantics Workshop (CLSW 2019)*, LNAI 11831, pp. 517–524, 2020.   [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-38189-9_53.pdf)
   
 ******  
-Li  Song, Yuan  Wen,  **Sijia  Ge**,  Bin  Li,  Junsheng  Zhou,  Weiguang  Qu  and  Nianwen  Xue. An  Easier  and  Efficient Framework to Annotate Semantic Roles: Evidence from the Chinese AMR Corpus.*The 13th Workshop on Asian Language Resources on LREC 2018*. Miyazaki, Japan, May 07, 2018:29-35.   [pdf](http://lrec-conf.org/workshops/lrec2018/W29/pdf/15_W29.pdf)
+Li  Song, Yuan  Wen,  **Sijia  Ge**,  Bin  Li,  Junsheng  Zhou,  Weiguang  Qu  and  Nianwen  Xue. An  Easier  and  Efficient Framework to Annotate Semantic Roles: Evidence from the Chinese AMR Corpus.*The 13th Workshop on Asian Language Resources on LREC 2018*. Miyazaki, Japan, May 07, 2018:29-35.   [[pdf]](http://lrec-conf.org/workshops/lrec2018/W29/pdf/15_W29.pdf)
   
   
 ## patent 
@@ -58,21 +58,21 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 ## Natural Language Processing 
 
 - Text classification with XLNET, logistic regression, BI-LSTM/SVM with embeddings. The data including a hotel reviews and SemEval shared task 4 for 'Don't Petronize Me' detection. The implementation with pytorch, keras, tensorflow, sklearn.
-[repo](https://github.com/Konic-NLP/text-classification)
+[[repo]](https://github.com/Konic-NLP/text-classification)
 
 
 - Name Entity Recognition with token-based tagging(BIO/BIOE)
-  - NER with BERT, which loaded the pre-trained model from huggingface[repo](https://github.com/Konic-NLP/BERT-NER/blob/main/copy_of_ner_bert.py)
-  - BI-LSTM implementation with tensorflow, can choose BI-LSTM or IDCNN as the model architecture, IDCNN is faster. [repo](https://github.com/Konic-NLP/NER/blob/main/NER-BERT.py)
-  - CRF++(C++ source)/CRFsuite implementation, the feature template can be edited by the users. [repo](https://github.com/Konic-NLP/NER) 
+  - NER with BERT, which loaded the pre-trained model from huggingface[[repo]](https://github.com/Konic-NLP/BERT-NER/blob/main/copy_of_ner_bert.py)
+  - BI-LSTM implementation with tensorflow, can choose BI-LSTM or IDCNN as the model architecture, IDCNN is faster. [[repo]](https://github.com/Konic-NLP/NER/blob/main/NER-BERT.py)
+  - CRF++(C++ source)/CRFsuite implementation, the feature template can be edited by the users. [[repo]](https://github.com/Konic-NLP/NER) 
 
 ***********
 ## Machine Learning
-- Course Project: The bigger, the better?
+- Course Project: The bigger, the better? [[Poster]]()
   - compare the performance of image classification task on CIFAR-19 dataset between a vanilla CNN and a CNN including ResNet-50 pretrained models.
   - The experiments show that after preprocessing like Deep-Image-Prior(DIP) on the nosiy data, the perfomance on a vanilla CNN can perform in the similar level to that on a complicated CNN leveraging ResNet-50 without denosing. The vanilla CNN trains faster, less weights.
   - Also find variables such as optimizer, upsampling impact differently on different CNN.   
-- Kaggle competition: Bike shared count[Kaggle page](https://www.kaggle.com/competitions/csci-5622-ps4-22-fall/overview) [Code Link]()
+- Kaggle competition: Bike shared count[[Kaggle page]](https://www.kaggle.com/competitions/csci-5622-ps4-22-fall/overview) [[Code Link]]()
   - leverage Exploratory Data Analysis, feature engineering for handling data format features, feature transformation&normalization, and XGBoost with Parameter Gridsearch
   - Rank #3/52 in Public leaderboard with R^2=0.935 and #9/52 in Private Leaderboard with R^2=0.939
 
