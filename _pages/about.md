@@ -68,7 +68,7 @@ A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.
 
 ***********
 ## Machine Learning
-- Course Project: The bigger, the better? [[Poster]]()
+- Course Project: The bigger, the better? [[Poster]](https://konic-nlp.github.io/files/final_poster_5622.pdf)
   - compare the performance of image classification task on CIFAR-19 dataset between a vanilla CNN and a CNN including ResNet-50 pretrained models.
   - The experiments show that after preprocessing like Deep-Image-Prior(DIP) on the nosiy data, the perfomance on a vanilla CNN can perform in the similar level to that on a complicated CNN leveraging ResNet-50 without denosing. The vanilla CNN trains faster, less weights.
   - Also find variables such as optimizer, upsampling impact differently on different CNN.   
