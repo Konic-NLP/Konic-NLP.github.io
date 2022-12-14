@@ -62,23 +62,18 @@
 
   </article>
 </div> -->
----
-layout: compress
----
-
 {% include base_path %}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
 
   <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+{% include browser-upgrade.html %}
+    {% include masthead.html %} 
 
     {{ content }}
     <br>
@@ -90,7 +85,7 @@ layout: compress
       </footer>
     </div>
 
-    {% include scripts.html %}
+<!--     {% include scripts.html %} -->
     <br>
     <br>
     <br>
