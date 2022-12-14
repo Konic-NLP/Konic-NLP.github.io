@@ -1,4 +1,4 @@
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -61,4 +61,45 @@
     {% endif %}
 
   </article>
-</div>
+</div> -->
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+    <br>
+    <br>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+    <br>
+    <br>
+    <br>
+<!-- <a href="https://clustrmaps.com/site/1bngh" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=u-qLXTUziqDEGtyPmMvhNi_1AGHEjwhH6QNZzHDkDLw" /></a> -->
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=230&t=tt&d=u-qLXTUziqDEGtyPmMvhNi_1AGHEjwhH6QNZzHDkDLw'></script>
+ <br>
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?sijiage007"
+border="0" alt="Web Site Hit Counters"></a> -->
+  </body>
+</html>
+
