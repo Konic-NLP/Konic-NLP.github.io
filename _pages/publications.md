@@ -14,3 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+## patent 
+A  Method  and  System  of  Automatic  Lexical  Analysis  for  Ancient  Chinese.  (the  3 rd   applicant).2019. No.CN201910085019.3 
