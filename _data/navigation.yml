@@ -8,7 +8,10 @@ main:
 
 #   - title: "Teaching"
 #     url: /teaching/    
-    
+  - title: "Code Projects"
+    url: /projects/
+  - title: "Courses"
+    url: /courses/
   - title: "Gallery"
     url: /portfolio/
         
