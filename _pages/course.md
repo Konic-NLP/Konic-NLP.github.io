@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Course"
+
+[//]: # (title: "Course")
 permalink: /courses/
 author_profile: true
 ---
