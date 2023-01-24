@@ -23,15 +23,18 @@ header:
 ***********
 ## Machine Learning
 #### mainly from *CSCI 5622 Machine Learning*
-- Course Project: The bigger, the better? [[Poster]](https://konic-nlp.github.io/files/final_poster_5622.pdf) [[email me to access the code]](sijia.ge@colorado.edu)
+- Course Project: The bigger, the better? [[Poster]](https://konic-nlp.github.io/files/final_poster_5622.pdf) <a href="mailto:Sijia.Ge@colorado.edu">[email me to access the code]</a>
   - compare the performance of image classification task on CIFAR-19 dataset between a vanilla CNN and a CNN including ResNet-50 pretrained models.
   - The experiments show that after preprocessing like Deep-Image-Prior(DIP) on the nosiy data, the perfomance on a vanilla CNN can perform in the similar level to that on a complicated CNN leveraging ResNet-50 without denosing. The vanilla CNN trains faster, less weights.
   - Also find variables such as optimizer, upsampling impact differently on different CNN.   
-- Kaggle competition: Bike shared count[[Kaggle page]](https://www.kaggle.com/competitions/csci-5622-ps4-22-fall/overview) [[email me to access the code]](sijia.ge@colorado.edu)
+- Kaggle competition: Bike shared count[[Kaggle page]](https://www.kaggle.com/competitions/csci-5622-ps4-22-fall/overview) <a href="mailto:Sijia.Ge@colorado.edu">[email me to access the code]</a>
   - leverage Exploratory Data Analysis, feature engineering for handling data format features, feature transformation&normalization, and XGBoost with Parameter Gridsearch
   - Rank #3/52 in Public leaderboard with R^2=0.935 and #9/52 in Private Leaderboard with R^2=0.939
-- Implementation from scratch with numpy to mimic scikit-learn: KNN, Naive Bayes, Decision Tree, Bagging&Boosting, K-means, logistic regression, MLP[[email me to access the code]](sijia.ge@colorado.edu)
+- Implementation from scratch with numpy to mimic scikit-learn: KNN, Naive Bayes, Decision Tree, Bagging&Boosting, K-means, logistic regression, MLP<a href="mailto:Sijia.Ge@colorado.edu">[email me to access the code]</a>
+
+
 ***********
+
 ## Computer Vision
 #### Mainly from *CSCI 5922 Neural Networks and Deeplearning*
 - MNIST recognition with scikit-learn [code](https://github.com/Konic-NLP/5922-deep-learning/blob/main/lab_assignment1_.ipynb)
