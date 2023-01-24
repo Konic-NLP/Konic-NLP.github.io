@@ -5,12 +5,6 @@ permalink: /gallery/
 author_profile: true
 ---
 
----
-title: "Here are some photos took by myself and share the beauty, charming of China"
-excerpt: "Page not found. Your pixels are in another canvas."
-sitemap: false
-permalink: /404.html
----
 
 ![](http://konic-nlp.github.io/images/20200323_2.JPG)  
 Jiming Temple,Nanjing, China
