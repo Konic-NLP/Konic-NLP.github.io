@@ -34,7 +34,6 @@ header:
 
 
 ***********
-
 ## Computer Vision
 #### Mainly from *CSCI 5922 Neural Networks and Deeplearning*
 - MNIST recognition with scikit-learn [code](https://github.com/Konic-NLP/5922-deep-learning/blob/main/lab_assignment1_.ipynb)
