@@ -12,6 +12,8 @@ main:
     url: /projects/
   - title: "Courses"
     url: /courses/
+  - title: "extracurricular"
+    url: /extracurricular/
   - title: "Gallery"
     url: /gallery/
         
