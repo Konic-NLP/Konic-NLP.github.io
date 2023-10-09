@@ -9,8 +9,6 @@ redirect_from:
 ---  
   
 &nbsp;
-
-
 I am a self-driven explorer in the field of Natural Language Processing (NLP) and related skills, fueled by a strong passion for Machine Learning (ML), Deep Learning (DL), and software development. Despite not originally having a background in computer science, I am dedicated to continuously enriching my skills. I have a particular fondness for techniques that offer immediate feedback and a sense of accomplishment.
 
 At present, I am working alongside Prof. [Martha Palmer](https://www.colorado.edu/faculty/palmer-martha/) on the [Knowledge-directed Artificial Intelligence Reasoning Over Schemas (KAIROS)](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas) and [Uniform Meaning Representation (UMR)](https://umr4nlp.github.io/web/index.html) project. My role involves computing event similarity based on Wikidata for KAIROS and developing the [UMR writer](http://umr-tool.cs.brandeis.edu/)—an annotation tool for Uniform Meaning Representation. Additionally, for the 2023 SS/Fall, I took the role of course managers for the graduate and undergraduate level machien learning courses respectively on CS department of CU-Boulder.
