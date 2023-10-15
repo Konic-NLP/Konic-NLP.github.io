@@ -13,6 +13,7 @@ header:
 #### mainly from *CSCI 5832 Natural Language Processing* and previous research
 - Text classification with XLNET, logistic regression, BI-LSTM/SVM with embeddings. The data including a hotel reviews and SemEval shared task 4 for 'Don't Petronize Me' detection. The implementation with pytorch, keras, tensorflow, sklearn.
 [[repo]](https://github.com/Konic-NLP/text-classification)
+- Fine-tuning models on downstream tasks such as extractive Q&A, Machine Translation, Mask Language Models and token classification, as well as a GPT-2 language model training from scratch with HuggingFace Transformers. [[repo]](https://huggingface.co/Konic)
 
 
 - Name Entity Recognition with token-based tagging(BIO/BIOE)
