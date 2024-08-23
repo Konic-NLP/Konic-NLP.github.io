@@ -33,7 +33,8 @@ Prior to my studies at CU-Boulder, I gained valuable industry experience as a pr
 **Application&Products**
 
 
-- [**UMR-writer**](https://verbs.colorado.edu/UMRWriter/): An annotation tool for Semantic Roles Labeling with Uniform Meaning Representation. ![commit](https://img.shields.io/https://github.com/Konic-NLP/UMR-Writer-CU)
+- [**UMR-writer**](https://verbs.colorado.edu/UMRWriter/): An annotation tool for Semantic Roles Labeling with Uniform Meaning Representation. ![GitHub last commit](https://img.shields.io/github/last-commit/Konic-nlp/UMR-Writer-CU/main)
+
 
 
 - [**Termbox**](http://termbox.lingosail.com/): A term-extraction and translation tool for Computer-Aided Translation.
