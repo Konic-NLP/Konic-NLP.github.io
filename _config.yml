@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name: "Sijia Ge 葛 四嘉 \n /sɨˈdʒɑː ɡə/"
+  name: "Sijia Ge 葛 四嘉"
+  pronunciation: "/sɨˈdʒɑː ɡə/"
   avatar: "pofile.png"
   bio: "ML/AI engineer@Rippey.ai"
   location: "Boulder, CO, USA"
-  employer:
+  employer: "Rippey.AI"
   email: "sijia.ge@colorado.edu"
   googlescholar: "https://scholar.google.com/citations?user=CIjgyCMAAAAJ&hl=en"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
