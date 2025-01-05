@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated explorer in the field of Natural Language Processing (NLP) and related skills, motivated by a strong passion for Machine Learning (ML), Deep Learning (DL), and software development. Despite not initially having a background in computer science, I am dedicated to continuously enriching my skills, particularly drawn to techniques that provide immediate feedback and a sense of accomplishment.
+I am a dedicated explorer in the field of Natural Language Processing (NLP) and related skills, motivated by a strong passion for Machine Learning (ML), Deep Learning (DL), and software development.
 
 Currently, I serve as an ML/AI Engineer at [Rippey.ai](https://rippey.ai/) ![rippey](https://emoji.slack-edge.com/TMD79BJMV/happyrippey/fc1c373da61032ab.png){: width="25" }, specializing in automating system with document data and unstructured email text data for the logistics industry. This role primarily involves classification and extraction tasks, as well as whole workflow from data collection to deployment. **I am seeking my next role, if you are hiring, please contact me. Thank you!**
 
