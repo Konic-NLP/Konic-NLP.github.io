@@ -72,10 +72,10 @@ Terracotta Warriors, funeral objects for the Emperor Qin Shihuang(the first empe
 ![](https://konic-nlp.github.io/files/20200628_8.JPG)
 Zhoushan, Zhejiang, China
 
-![](https://konic-nlp.github.io/files/DSC_6390.JPG)
+![](https://konic-nlp.github.io/files/DSC_6390.jpg)
 
 Tstinghua University, Beijing, China
 
-![](https://konic-nlp.github.io/files/DSC_6956.JPG)
+![](https://konic-nlp.github.io/files/DSC_6956.jpg)
 
 The Fen River flows through Taiyuan City, the location of my undergraduate university, in Shanxi, China.
