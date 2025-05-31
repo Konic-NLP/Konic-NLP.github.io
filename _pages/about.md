@@ -25,6 +25,7 @@ Prior to my studies at CU-Boulder, I gained valuable industry experience as a pr
 **News**
 
 - 05/2025 I will begin my Ph.D. studies at the University of Cincinnati in August. Go Bearcats!
+
 <!-- **My major technical stacks**:
 
 
