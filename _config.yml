@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Welcome"
+title: "Home"
 title_separator: "-"
 name: &name "Sijia Ge"
 description: &description "Computational Linguistics student at CU-Boulder"

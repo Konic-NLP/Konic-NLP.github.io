@@ -3,25 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-#   - title: "Coding projects"
-#     url: /talks/    
+  #   - title: "Coding projects"
+  #     url: /talks/
 
-#   - title: "Teaching"
-#     url: /teaching/    
-  - title: "Code Projects"
-    url: /projects/
-  - title: "Courses"
-    url: /courses/
+  #   - title: "Teaching"
+  #     url: /teaching/
+  # - title: "Code Projects"
+  #   url: /projects/
+  # - title: "Courses"
+  #   url: /courses/
   - title: "extracurricular"
     url: /extracurricular/
   - title: "Gallery"
     url: /gallery/
-        
 #   - title: "Blog Posts"
 #     url: /year-archive/
-    
+
 #   - title: "CV"
 #     url: /cv/
-    
+
 #   - title: "Guide"
 #     url: /markdown/
