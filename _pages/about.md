@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- I am a dedicated explorer in the field of Natural Language Processing (NLP) and related skills, motivated by a strong passion for Machine Learning (ML), Deep Learning (DL), and software development. -->
 
-I am a first-year PhD student in the Department of Computer Science at the University of Cincinnati, advised by [Prof. Tianyu Jiang](https://jiangtianyu.com/). Previously, I received my Master's degree in [Computational Linguistics, Analytics, Search, and Informatics (CLASIC)](https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms) at The University of Colorado-Boulder. During my studies, I collaborated with Prof. [Martha Palmer](https://www.colorado.edu/faculty/palmer-martha/) on the [Knowledge-directed Artificial Intelligence Reasoning Over Schemas (KAIROS)](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas) and [Uniform Meaning Representation (UMR)](https://umr4nlp.github.io/web/index.html) projects.
+Sijia Ge is a PhD student in Computer Science at the University of Cincinnati, a member of the [Cincy NLP Lab](https://jiangtianyu.com/lab/), advised by [Prof. Tianyu Jiang](https://jiangtianyu.com/). Previously, he received his Master's degree from The University of Colorado-Boulder, where he collaborated with Prof. [Martha Palmer](https://www.colorado.edu/faculty/palmer-martha/) on the [Knowledge-directed Artificial Intelligence Reasoning Over Schemas (KAIROS)](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas) and [Uniform Meaning Representation (UMR)](https://umr4nlp.github.io/web/index.html) projects.
 
-In industry, I worked as an ML/AI Engineer at [Rippey.ai](https://rippey.ai/) ![rippey](https://emoji.slack-edge.com/TMD79BJMV/happyrippey/fc1c373da61032ab.png){: width="25"}, where I specialized in automating system that process document data and unstructured email text data for the logistics sector.
+In industry, he worked as an ML/AI Engineer at [Rippey.ai](https://rippey.ai/) ![rippey](https://emoji.slack-edge.com/TMD79BJMV/happyrippey/fc1c373da61032ab.png){: width="25"}, where he specialized in automating system that process document data and unstructured email text data for the logistics sector.
 
 <!-- Before this, I earned a My contributions included computing event similarity based on Wikidata for KAIROS and developing the [UMR writer](https://verbs.colorado.edu/UMRWriter/), an annotation tool for cross-linguistic Uniform Meaning Representation, [Abstract Meaning Representation](https://aclanthology.org/W13-2322.pdf), [THYME clinical data with temporal relations](https://github.com/stylerw/thymedata), etc. -->
 
@@ -24,6 +24,7 @@ Prior to my studies at CU-Boulder, I gained valuable industry experience as a pr
 
 **News**
 
+- 03/2026 Serving as a reviewer for [NLP4DH 2026](https://www.nlp4dh.com/nlp4dh-2026).
 - 05/2025 I will begin my Ph.D. studies at the University of Cincinnati in August. Go Bearcats!
 
 <!-- **My major technical stacks**:
