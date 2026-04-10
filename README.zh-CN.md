@@ -6,10 +6,10 @@
 
 [English README](README.md) · [在线预览](https://wzsyyh.github.io/luka-homepage-template/) · [使用此模板](https://github.com/wzsyyh/luka-homepage-template/generate)
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-c2714f?style=flat-square)
-![Template Ready](https://img.shields.io/badge/Template-Ready-3d3929?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-e28a67?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-8c8577?style=flat-square)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-c2714f?style=flat-square)](https://wzsyyh.github.io/luka-homepage-template/)
+[![Template Ready](https://img.shields.io/badge/Template-Ready-3d3929?style=flat-square)](https://github.com/wzsyyh/luka-homepage-template/generate)
+[![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-e28a67?style=flat-square)](https://github.com/wzsyyh/luka-homepage-template)
+[![License](https://img.shields.io/badge/License-MIT-8c8577?style=flat-square)](./LICENSE.md)
 
 </div>
 
