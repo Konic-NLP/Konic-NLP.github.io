@@ -150,10 +150,14 @@ body.theme-luka .sidebar {
   left: calc(50% - 560px);
   height: calc(100vh - 60px);
   overflow-y: auto;
+  text-align: center;
+  box-sizing: border-box;
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   padding-top: 60px;
+  z-index: 100;
 }
 
 body.theme-luka .profile-card {
