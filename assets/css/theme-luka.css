@@ -71,10 +71,16 @@ body.theme-luka *::after {
 body.theme-luka {
   background: var(--luka-bg);
   color: var(--luka-text);
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
   font-size: 16px;
   line-height: 1.65;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 body.theme-luka a {
@@ -124,7 +130,9 @@ body.theme-luka .theme-toggle {
   border-radius: 999px;
   cursor: pointer;
   font-size: 18px;
-  transition: background-color 0.2s ease, color 0.2s ease;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
 }
 
 body.theme-luka .theme-toggle:hover {
@@ -211,7 +219,10 @@ body.theme-luka .social-icons a {
   background: var(--luka-social-bg);
   color: var(--luka-social-text) !important;
   box-shadow: 0 2px 8px rgba(61, 57, 41, 0.08);
-  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    background-color 0.2s ease,
+    color 0.2s ease;
 }
 
 body.theme-luka .social-icons a:hover {
@@ -221,9 +232,9 @@ body.theme-luka .social-icons a:hover {
 }
 
 body.theme-luka .visitor-card {
-  margin: 40px auto 0;
+  margin: 15px auto 0;
   width: 240px;
-  padding: 18px 16px;
+  padding: 12px 8px;
   border: 1px dashed var(--luka-border);
   border-radius: 14px;
   color: var(--luka-secondary);
@@ -231,12 +242,12 @@ body.theme-luka .visitor-card {
 }
 
 body.theme-luka .visitor-card-title {
-  margin-bottom: 8px;
+  margin-bottom: 1px;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--luka-accent);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.03em;
 }
 
 body.theme-luka .visitor-card-body {
@@ -255,7 +266,9 @@ body.theme-luka .section {
   margin-bottom: 44px;
   opacity: 0;
   transform: translateY(12px);
-  transition: opacity 0.45s ease, transform 0.45s ease;
+  transition:
+    opacity 0.45s ease,
+    transform 0.45s ease;
 }
 
 body.theme-luka .section.visible {
@@ -297,7 +310,11 @@ body.theme-luka .timeline-item::before {
   top: 0;
   bottom: 0;
   width: 2px;
-  background: linear-gradient(to bottom, var(--luka-accent), rgba(194, 113, 79, 0.12));
+  background: linear-gradient(
+    to bottom,
+    var(--luka-accent),
+    rgba(194, 113, 79, 0.12)
+  );
 }
 
 body.theme-luka .timeline-item:last-child::before {
@@ -323,9 +340,10 @@ body.theme-luka .experience-item {
 }
 
 body.theme-luka .institution-logo {
-  width: 52px;
-  height: 52px;
+  width: 60px;
+  height: auto;
   flex-shrink: 0;
+  display: block;
 }
 
 body.theme-luka .experience-content {
@@ -419,13 +437,13 @@ body.theme-luka .award-text {
 body.theme-luka .site-footer {
   width: 100%;
   flex-basis: 100%;
-  padding: 32px 24px 40px 380px;
+  padding: 5px 24px 40px 380px;
   text-align: center;
 }
 
 body.theme-luka .site-footer p {
   margin: 0;
-  padding-top: 20px;
+  padding-top: 1px;
   border-top: 1px solid var(--luka-footer-border);
   color: var(--luka-secondary);
   font-size: 13px;
@@ -504,13 +522,13 @@ body.theme-luka strong {
 
   body.theme-luka .visitor-card {
     width: 100%;
-    max-width: 280px;
+    max-width: 300px;
   }
 }
 
 @media (max-width: 480px) {
   body.theme-luka .section {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
   }
 
   body.theme-luka .section-title {
