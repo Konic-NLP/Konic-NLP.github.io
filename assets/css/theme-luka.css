@@ -230,6 +230,15 @@ body.theme-luka .social-icons a:hover {
   color: #fff !important;
   transform: translateY(-2px);
 }
+.research-intro {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.keyterm {
+  font-weight: 700;
+  color: #4b6cb7;
+}
 
 body.theme-luka .visitor-card {
   margin: 15px auto 0;
