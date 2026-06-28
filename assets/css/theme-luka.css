@@ -130,9 +130,22 @@ body.theme-luka .theme-toggle {
   border-radius: 999px;
   cursor: pointer;
   font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   transition:
     background-color 0.2s ease,
     color 0.2s ease;
+}
+
+body.theme-luka .theme-icon {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 body.theme-luka .theme-toggle:hover {
@@ -229,6 +242,22 @@ body.theme-luka .social-icons a:hover {
   background: var(--luka-accent);
   color: #fff !important;
   transform: translateY(-2px);
+}
+
+body.theme-luka .social-icons svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+body.theme-luka .social-icons a[title="GitHub"] svg,
+body.theme-luka .social-icons a[title="LinkedIn"] svg {
+  fill: currentColor;
+  stroke: none;
 }
 .research-intro {
   font-size: 1.05rem;
